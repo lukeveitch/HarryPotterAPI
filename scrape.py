@@ -16,7 +16,7 @@ for idx, tags in enumerate(olTags):
         all_quotes.append(line)
 
 df = pd.DataFrame({'Quotes' : all_quotes})
-df.to_csv('HP_quotes.csv', index = False)
+df.to_csv('HarryPotter_quotes.csv', index = False)
 
 
 
