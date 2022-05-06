@@ -1,4 +1,4 @@
 # HarryPotterAPI
 
 -Webscraped data 
-- FUnny harry potter quotes
+- Funny harry potter quotes
